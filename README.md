@@ -89,7 +89,7 @@ http://localhost:8081
 по которому доступна Grafana с настроенным Dashboard.
 Логин в Grafana должен быть admin, пароль qwerty123456.
  
----
+
  
 ### Как оформить ДЗ?
  

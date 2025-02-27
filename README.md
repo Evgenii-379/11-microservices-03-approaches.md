@@ -84,7 +84,9 @@ http://localhost:8081
  
 ### Результат выполнения:
  
-docker compose файл, запустив который можно перейти по адресу http://localhost:8081, по которому доступна Grafana с настроенным Dashboard.
+docker compose файл, запустив который можно перейти по адресу:
+http://localhost:8081
+по которому доступна Grafana с настроенным Dashboard.
 Логин в Grafana должен быть admin, пароль qwerty123456.
  
 ---
